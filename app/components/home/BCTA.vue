@@ -1,7 +1,7 @@
 <template>
-  <section class="bg-slate-200">
+  <section class="bg-white">
     <div
-      class="py-32 px-4 mx-auto max-w-screen-2xl text-center lg:py-64 lg:mt-8"
+      class="py-32 px-4 mx-auto max-w-screen-2xl text-center lg:py-32 lg:mt-8"
     >
       <h1
         class="mb-6 text-4xl font-bold tracking-tighter text-heading md:text-5xl lg:text-6xl"
